@@ -1,7 +1,8 @@
 
-####[Optional] Vagrant
+#### Vagrant
 
-``` #Concepts
+# Concepts
+```
 For this project, we expect you to look at this concept:
 
 Using Vagrant on your personal computer
@@ -16,15 +17,16 @@ Also:
 This project is 100% optional
 This project can’t be done in Sandboxes - it can be done only in your local computer.
 
-##Resources
-#Read or watch:
+## Resources
+# Read or watch:
 * Virtual machine
 * man uname
 
-#Learning Objectives
+# Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-``` #General
+# General
+```
 What is a virtual machine
 What is Vagrant
 Who wrote Vagrant
@@ -36,15 +38,19 @@ What does the command uname do
 
 #Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
 ## Requirements
 # General
 A README.md file at the root of the repo, containing a description of the repository
 A README.md file, at the root of the folder of this project (i.e. 0x00-vagrant), describing what this project is about
 ## More Info
-``` # Install git
+# Install git
+```
 If git is not already installed on your terminal:
 
 $ sudo apt-get update
@@ -64,14 +70,14 @@ This project can’t be done in Sandboxes - it can be done only in your local co
 
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
-#Question #0
+# Question #0
 1. Ubuntu is a ____ distribution.
 
 * Linux
 * MacOS
 * Windows
 
-#Question #1
+# Question #1
 2. What is a virtual machine?
 
 * A system for developing virtual reality
@@ -80,7 +86,7 @@ Great! You've completed the quiz successfully! Keep going! (Show quiz)
 
 ## Tasks
 0. Create and setup your Git and GitHub account
-#advanced
+
 You will need Git for this project, you might have to install it on your computer if it’s not done yet.
 
 Configure your basic info (name, email) on your local machine – they will be part of your commits. Tips
@@ -104,13 +110,14 @@ Good job!
 You pushed your first file in your first repository of the first task of your first School project.
 
 Repo:
-
+```
 GitHub repository: zero_day
 File: README.md
+```
+
     
 1. Hello Ubuntu
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
+
 Inside the zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
 
 ssh into your Ubuntu VM. What does the command uname print when you run it without any option?
